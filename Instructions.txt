@@ -1,0 +1,1 @@
+I am getting minor error's and did not get output. I have coded using VS code editor.
